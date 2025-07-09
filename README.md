@@ -17,10 +17,7 @@ boilerplate's in various programming languages and frameworks to simplify the in
 > without using the official packages —  
 > you **must have signed a usage agreement with eRecht24** beforehand.
 >
-> More
->
-information: [eRecht24 API usage requirements](https://www.e-recht24.de/mitglieder/benutzerkonto/erecht24-api-schnittstelle-optimal-nutzen/) (
-> Premium Account needed)
+> More information: [eRecht24 API usage requirements](https://www.e-recht24.de/mitglieder/benutzerkonto/erecht24-api-schnittstelle-optimal-nutzen/) (Premium Account needed)
 
 ---
 
