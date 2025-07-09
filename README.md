@@ -18,7 +18,8 @@ boilerplate's in various programming languages and frameworks to simplify the in
 > you **must have signed a usage agreement with eRecht24** beforehand.
 >
 > More
-> information: [eRecht24 API usage requirements](https://www.e-recht24.de/mitglieder/benutzerkonto/erecht24-api-schnittstelle-optimal-nutzen/) (
+>
+information: [eRecht24 API usage requirements](https://www.e-recht24.de/mitglieder/benutzerkonto/erecht24-api-schnittstelle-optimal-nutzen/) (
 > Premium Account needed)
 
 ---
@@ -29,8 +30,7 @@ JavaScript and TypeScript are widely used for frontend and backend development i
 
 ### Frameworks
 
-- **SvelteKit example by @robinrm
-  ** – [robinrm/sveltekit-and-erecht24-API-v2](https://github.com/robinrm/sveltekit-and-erecht24-API-v2)
+- **SvelteKit example by @robinrm** – [robinrm/sveltekit-and-erecht24-API-v2](https://github.com/robinrm/sveltekit-and-erecht24-API-v2)
 - **TypeScript SDK by @LILA-IT** - [LILA-IT/eRecht24](https://github.com/LILA-IT/eRecht24)
 
 ---
