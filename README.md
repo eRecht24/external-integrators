@@ -1,15 +1,25 @@
+<div align="center">
+<img src="assets/logo.jpeg" width="100px"  alt="eRecht24 Logo"/>
+
 # eRecht24 Certified External Integrators
 
-Welcome to the official eRecht24 directory of certified external developers.  
-These developers are not employed by eRecht24 but have been approved to work with the eRecht24 API and may assist others with integrations.
+</div>
 
-This repository is maintained by eRecht24 and also includes a collection of recommended SDKs, starter kits, and boilerplates in various programming languages and frameworks to simplify the integration process.
+Welcome to the official eRecht24 directory of certified external developers.  
+These developers are not employed by eRecht24 but have been approved to work with the eRecht24 API and may assist others
+with integrations.
+
+This repository is maintained by eRecht24 and also includes a collection of recommended SDKs, starter kits, and
+boilerplate's in various programming languages and frameworks to simplify the integration process.
 
 > ⚠️ **Important Notice:**  
-> To use the eRecht24 API with your own developer key — e.g., when building custom plugins, SDKs, or direct integrations without using the official packages —  
-> you **must have signed a usage agreement with eRecht24** beforehand.  
->  
-> More information: [eRecht24 API usage requirements](https://www.e-recht24.de/mitglieder/benutzerkonto/erecht24-api-schnittstelle-optimal-nutzen/) (Premium Account needed)
+> To use the eRecht24 API with your own developer key — e.g., when building custom plugins, SDKs, or direct integrations
+> without using the official packages —  
+> you **must have signed a usage agreement with eRecht24** beforehand.
+>
+> More
+> information: [eRecht24 API usage requirements](https://www.e-recht24.de/mitglieder/benutzerkonto/erecht24-api-schnittstelle-optimal-nutzen/) (
+> Premium Account needed)
 
 ---
 
@@ -19,10 +29,9 @@ JavaScript and TypeScript are widely used for frontend and backend development i
 
 ### Frameworks
 
-- **SvelteKit example by @robinrm** – [robinrm/sveltekit-and-erecht24-API-v2](https://github.com/robinrm/sveltekit-and-erecht24-API-v2)
+- **SvelteKit example by @robinrm
+  ** – [robinrm/sveltekit-and-erecht24-API-v2](https://github.com/robinrm/sveltekit-and-erecht24-API-v2)
 - **TypeScript SDK by @LILA-IT** - [LILA-IT/eRecht24](https://github.com/LILA-IT/eRecht24)
-- **Gatsby plugin by @pgegenfurtner** - [pgegenfurtner/gatsby-plugin-erecht24](https://github.com/pgegenfurtner/gatsby-plugin-erecht24)
-
 
 ---
 
@@ -42,14 +51,5 @@ PHP is a server-side scripting language used to build dynamic websites and web a
 Go (Golang) is known for its performance and is used in backend services and APIs.
 
 - **Go SDK by @jjideenschmiede** – [jjideenschmiede/goerecht24](https://github.com/jjideenschmiede/goerecht24)
-
----
-
-## Community Contributions
-
-We welcome certified external developers to contribute their SDKs, boilerplates, or starter templates.  
-If you'd like to be included in this list, please open a **Merge Request** and ensure the code follows our integration guidelines.
-
--> To became a certified developer you have to follow the terms and sign the contract https://api-docs.e-recht24.de/
 
 ---
