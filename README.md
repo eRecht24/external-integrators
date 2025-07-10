@@ -42,11 +42,3 @@ PHP is a server-side scripting language used to build dynamic websites and web a
 - **Winter CMS plugin by @xitara** – [xitara/wn-erecht24-plugin](https://github.com/xitara/wn-erecht24-plugin)
 
 ---
-
-## Go
-
-Go (Golang) is known for its performance and is used in backend services and APIs.
-
-- **Go SDK by @jjideenschmiede** – [jjideenschmiede/goerecht24](https://github.com/jjideenschmiede/goerecht24)
-
----
