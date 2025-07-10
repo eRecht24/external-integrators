@@ -6,7 +6,7 @@
 </div>
 
 Welcome to the official eRecht24 directory of certified external developers.  
-These developers are not employed by eRecht24 but have been approved to work with the eRecht24 API and may assist others
+These developers are not employed by eRecht24 but have signed a usage agreement with eRecht24 the to work with the eRecht24 API and may assist others
 with integrations.
 
 This repository is maintained by eRecht24 and also includes a collection of recommended SDKs, starter kits, and
