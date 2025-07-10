@@ -1,11 +1,11 @@
 <div align="center">
 <img src="assets/logo.jpeg" width="100px"  alt="eRecht24 Logo"/>
 
-# eRecht24 Certified External Integrators
+# eRecht24 External Integrators
 
 </div>
 
-Welcome to the official eRecht24 directory of certified external developers.  
+Welcome to the official eRecht24 directory of external developers.  
 These developers are not employed by eRecht24 but have signed a usage agreement with eRecht24 the to work with the eRecht24 API and may assist others
 with integrations.
 
