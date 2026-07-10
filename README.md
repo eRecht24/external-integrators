@@ -28,7 +28,8 @@ JavaScript and TypeScript are widely used for frontend and backend development i
 ### Frameworks
 
 - **SvelteKit example by @robinrm** – [robinrm/sveltekit-and-erecht24-API-v2](https://github.com/robinrm/sveltekit-and-erecht24-API-v2)
-- **TypeScript SDK by @LILA-IT** - [LILA-IT/eRecht24](https://github.com/LILA-IT/eRecht24)
+<!-- **TypeScript SDK by @LILA-IT** - [LILA-IT/eRecht24](https://github.com/LILA-IT/eRecht24) -->
+- **Next.js SDK by @dagsitegit** - [dagsitegit/erecht24-next](https://github.com/dagsitegit/erecht24-next)
 
 ---
 
