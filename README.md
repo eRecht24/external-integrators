@@ -30,7 +30,8 @@ JavaScript and TypeScript are widely used for frontend and backend development i
 - **SvelteKit example by @robinrm** – [robinrm/sveltekit-and-erecht24-API-v2](https://github.com/robinrm/sveltekit-and-erecht24-API-v2)
 <!-- **TypeScript SDK by @LILA-IT** - [LILA-IT/eRecht24](https://github.com/LILA-IT/eRecht24) -->
 - **Next.js SDK by @dagsitegit** - [dagsitegit/erecht24-next](https://github.com/dagsitegit/erecht24-next)
-- **Next.js SDK by Meyer & Poczekaj ** - [erecht24next](https://github.com/Meyer-Poczekaj/eRecht24next)
+- **Next.js SDK by Meyer & Poczekaj** - [erecht24next](https://github.com/Meyer-Poczekaj/eRecht24next)
+- **Nuxt (Vue) SDK by @pirabyte** - [pirabyte/erecht24-nuxt](https://github.com/pirabyte/erecht24-nuxt)
 
 ---
 
@@ -40,6 +41,7 @@ PHP is a server-side scripting language used to build dynamic websites and web a
 
 ### Frameworks
 
+- **Laravel SDK by @pirabyte** - [pirabyte/erecht24-laravel](https://github.com/pirabyte/erecht24-laravel)
 - **REDAXO CMS addon by @FriendsOfREDAXO** – [FriendsOfREDAXO/erecht24](https://github.com/FriendsOfREDAXO/erecht24)
 - **Winter CMS plugin by @xitara** – [xitara/wn-erecht24-plugin](https://github.com/xitara/wn-erecht24-plugin)
 
