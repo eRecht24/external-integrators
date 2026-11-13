@@ -43,5 +43,6 @@ PHP is a server-side scripting language used to build dynamic websites and web a
 - **Laravel SDK by @pirabyte** - [pirabyte/erecht24-laravel](https://github.com/pirabyte/erecht24-laravel)
 - **REDAXO CMS addon by @FriendsOfREDAXO** – [FriendsOfREDAXO/erecht24](https://github.com/FriendsOfREDAXO/erecht24)
 - **Winter CMS plugin by @xitara** – [xitara/wn-erecht24-plugin](https://github.com/xitara/wn-erecht24-plugin)
+- **Laravel SDK by  @kaihempel** - [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel)
 
 ---
